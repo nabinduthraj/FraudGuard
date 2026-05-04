@@ -1,0 +1,34 @@
+[
+  {
+    "username": "admin",
+    "password": "c40562882472ba4f901e0ff3c92b4cf06219855ef9019dca05041cd6841e2d34",
+    "role": "Admin",
+    "email": "",
+    "full_name": "admin",
+    "phone": ""
+  },
+  {
+    "username": "researcher",
+    "password": "cd81c665e4282e261c182720f7979243938e66e296af3d5dd8aed919af3a8f01",
+    "role": "Researcher",
+    "email": "",
+    "full_name": "researcher",
+    "phone": ""
+  },
+  {
+    "username": "user1",
+    "password": "1b72da8a9a5fa3e9b9f9359d831f831bd5c788d043c45ea95e03eaac761a2786",
+    "role": "End User",
+    "email": "",
+    "full_name": "user1",
+    "phone": ""
+  },
+  {
+    "username": "nabinduthraj",
+    "password": "abb6501626725ac6376a61bffd3a7244ea808893d64ef6791f7cd70e5a6ac920",
+    "role": "Admin",
+    "email": "duthrajnabin@gmail.com",
+    "full_name": "Nabin Duthraj",
+    "phone": "+61437366991"
+  }
+]
