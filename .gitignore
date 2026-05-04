@@ -1,5 +1,0 @@
-.streamlit/secrets.toml
-trained_models/
-__pycache__/
-*.pyc
-.env
